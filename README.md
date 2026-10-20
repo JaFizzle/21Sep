@@ -1,2 +1,1 @@
-# 21Sep
-# Fall_2026_Bootcamp
+# seir-foundations-homework
